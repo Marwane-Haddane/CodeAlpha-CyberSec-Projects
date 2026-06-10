@@ -26,6 +26,11 @@ cyber/
     suricata_setup_guide.md
     ids_guide.ipynb
 ```
+## Phishing awerness presentation
+a mini presentation about the phishing awerness here a link of canva to see more ( i will add a pdf in the project structure soon )
+```text
+https://canva.link/tw6jes8k74ik16c
+```
 
 ## Task Completion Summary
 
