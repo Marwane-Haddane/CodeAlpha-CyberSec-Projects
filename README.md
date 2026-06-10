@@ -275,38 +275,5 @@ task3_ids/suricata_setup_guide.md
 6. Run the Python IDS.
 7. Read the secure coding report and Suricata guide.
 
-## Notes Before Pushing To GitHub
-
-Do not push generated or local-only files such as:
-
-- `venv/`
-- `__pycache__/`
-- `.pyc` files
-- `users.db`
-- `ids_alerts.log`
-
-These files are ignored by `.gitignore`.
-
-## GitHub Push Commands
-
-If this is a new repository:
-
-```bash
-git init
-git add .
-git commit -m "Add cybersecurity internship tasks"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-git push -u origin main
-```
-
-If the repository already exists locally and already has a remote:
-
-```bash
-git status
-git add .
-git commit -m "Document cybersecurity tasks"
-git push
-```
 
 Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your real GitHub username and repository name.
