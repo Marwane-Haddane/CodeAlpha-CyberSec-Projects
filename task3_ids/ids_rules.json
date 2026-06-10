@@ -1,0 +1,22 @@
+{
+  "syn_scan": {
+    "enabled": true,
+    "max_syn_packets": 15,
+    "window_seconds": 5,
+    "severity": "HIGH",
+    "description": "Potential TCP SYN Port Scan Detected"
+  },
+  "icmp_flood": {
+    "enabled": true,
+    "max_packets": 10,
+    "window_seconds": 5,
+    "severity": "MEDIUM",
+    "description": "Potential ICMP Ping Flood Detected"
+  },
+  "plaintext_credentials": {
+    "enabled": true,
+    "keywords": ["password", "passwd", "username", "login", "pwd"],
+    "severity": "HIGH",
+    "description": "Plaintext Credentials in Transit Detected"
+  }
+}
