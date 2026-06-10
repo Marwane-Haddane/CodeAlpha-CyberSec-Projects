@@ -1,8 +1,9 @@
-# Cybersecurity Internship Tasks
+# Cybersecurity Projects
 
-This repository contains three cybersecurity learning tasks implemented in Python and documented for local testing. Each task is separated into its own folder so it is easy to run, review, and explain.
+This repository contains three cybersecurity learning tasks implemented in Python and documented for local testing. 
+Each task is separated into its own folder so it is easy to run, review, and explain.
 
-> Important: Run these tools only on your own machine, your own lab network, or an environment where you have explicit permission. Packet capture and intrusion detection can expose sensitive network data.
+> Important: Run these tools only on your own machine, your own lab network, or an environment where you have explicit permission. Packet capture and intrusion detection can expose sensitive network data, so i am not responsible if u face something bad during trying this in bad way
 
 ## Project Structure
 
@@ -30,9 +31,9 @@ cyber/
 
 | Task | Folder | Status | What Was Implemented |
 | --- | --- | --- | --- |
-| Basic Network Sniffer | `task1_sniffer/` | Done | Python packet sniffer using Scapy. It captures visible network packets and prints source IP, destination IP, protocol, ports, and payload preview. |
-| Secure Coding Review | `task2_secure_review/` | Done | Flask login lab with a vulnerable SQL injection version, a secure fixed version, database setup script, and a written secure coding review report. |
-| Network Intrusion Detection System | `task3_ids/` | Done | Python-based educational IDS with JSON rules, alerts, simulated response mechanism, alert logging, and a Suricata setup guide for a real IDS tool. |
+| Basic Network Sniffer | `task1_sniffer/` | Python packet sniffer using Scapy. It captures visible network packets and prints source IP, destination IP, protocol, ports, and payload preview. |
+| Secure Coding Review | `task2_secure_review/` | Flask login lab with a vulnerable SQL injection version, a secure fixed version, database setup script, and a written secure coding review report. |
+| Network Intrusion Detection System | `task3_ids/` |  Python-based educational IDS with JSON rules, alerts, simulated response mechanism, alert logging, and a Suricata setup guide for a real IDS tool. |
 
 ## Requirements
 
