@@ -5,10 +5,10 @@ Each task is separated into its own folder so it is easy to run, review, and exp
 
 > Important: Run these tools only on your own machine, your own lab network, or an environment where you have explicit permission. Packet capture and intrusion detection can expose sensitive network data, so i am not responsible if u face something bad during trying this in bad way
 
-## Phishing awerness presentation ( task 4 )
+## Phishing awerness presentation ( task 4 )  [https://canva.link/tw6jes8k74ik16c](https://canva.link/p9o1ltnh2kv21ow)
 a mini presentation about the phishing awerness here is a canva link to see th presentation
 ```text
-[https://canva.link/tw6jes8k74ik16c](https://canva.link/p9o1ltnh2kv21ow)
+https://canva.link/p9o1ltnh2kv21ow
 ```
 
 
