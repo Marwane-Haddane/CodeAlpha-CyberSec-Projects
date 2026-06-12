@@ -1,9 +1,16 @@
 # Cybersecurity Projects
 
-This repository contains three cybersecurity learning tasks implemented in Python and documented for local testing. 
+This repository contains 4 cybersecurity learning tasks implemented in Python and documented for local testing. 
 Each task is separated into its own folder so it is easy to run, review, and explain.
 
 > Important: Run these tools only on your own machine, your own lab network, or an environment where you have explicit permission. Packet capture and intrusion detection can expose sensitive network data, so i am not responsible if u face something bad during trying this in bad way
+
+## Phishing awerness presentation ( task 4 )
+a mini presentation about the phishing awerness here is a canva link to see th presentation
+```text
+[https://canva.link/tw6jes8k74ik16c](https://canva.link/p9o1ltnh2kv21ow)
+```
+
 
 ## Project Structure
 
@@ -25,11 +32,6 @@ cyber/
     ids_rules.json
     suricata_setup_guide.md
     ids_guide.ipynb
-```
-## Phishing awerness presentation
-a mini presentation about the phishing awerness here a link of canva to see more ( i will add a pdf in the project structure soon )
-```text
-https://canva.link/tw6jes8k74ik16c
 ```
 
 ## Task Completion Summary
