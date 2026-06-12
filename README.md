@@ -36,8 +36,8 @@ cyber/
 
 ## Task Completion Summary
 
-| Task | Folder | Status | What Was Implemented |
-| --- | --- | --- | --- |
+| Task | Folder | Status |
+| --- | --- | --- | 
 | Basic Network Sniffer | `task1_sniffer/` | Python packet sniffer using Scapy. It captures visible network packets and prints source IP, destination IP, protocol, ports, and payload preview. |
 | Secure Coding Review | `task2_secure_review/` | Flask login lab with a vulnerable SQL injection version, a secure fixed version, database setup script, and a written secure coding review report. |
 | Network Intrusion Detection System | `task3_ids/` |  Python-based educational IDS with JSON rules, alerts, simulated response mechanism, alert logging, and a Suricata setup guide for a real IDS tool. |
